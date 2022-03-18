@@ -1,6 +1,7 @@
 {
   "packs": [
-    "emotes.json"
+    "emotes.json",
+    "privacy_pam.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
